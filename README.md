@@ -1,2 +1,2 @@
 # softuni-repo
-This repository is for learning purposes.
+This repository is for learning purposes and this is very cool!
